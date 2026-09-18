@@ -1,4 +1,4 @@
-# Hi, I'm Rathnam K 👋
+# Hi, I'm Rathnam Koninti 👋
 
 ### Senior Software Engineer | Python Backend Developer
 
@@ -80,7 +80,7 @@ I enjoy building **scalable backend systems, event-driven architectures, asynchr
 
 ## 💼 Professional Experience
 
-### 🏢 Reliance Infocomm Limited — Senior Software Engineer
+### 🏢 Reliance Infocomm Limited — Senior Software Engineer(ABHI Health)
 
 **Apr 2026 – Present | Bengaluru, India**
 
