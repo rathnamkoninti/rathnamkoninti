@@ -2,11 +2,11 @@
 
 ### Senior Software Engineer | Python Backend Developer
 
-I'm a **Python Backend Developer with 5+ years of professional experience** specializing in backend development, REST APIs, microservices, distributed systems, and cloud technologies.
+I'm a **Python Backend Developer with 6+ years of professional experience** specializing in backend development, REST APIs, microservices, distributed systems, and cloud technologies.
 
 I enjoy building **scalable backend systems, event-driven architectures, asynchronous workflows, and AI-powered applications**.
 
-* 🔭 Currently working on **Python, Django, REST APIs, Microservices & IoT platforms**
+* 🔭 Currently working on **Python, Django, FastAPI, REST APIs & IoT platforms**
 * 🌱 Exploring **LLMs, RAG, LangChain, LangGraph & AI-powered backend systems**
 * 💡 Interested in **Distributed Systems, Microservices, Event-Driven Architecture & Cloud**
 * 🛠️ Experienced in designing and optimizing production-grade backend services
@@ -16,7 +16,9 @@ I enjoy building **scalable backend systems, event-driven architectures, asynchr
 
 ## 🚀 About Me
 
-* 💼 **Senior Software Engineer** at Reliance Infocomm Limited (ABI Health)
+* 💼 **Senior Software Engineer at ABI Health**
+* 🤝 Working with **Reliance Jio Infocomm Limited** as a client project
+* 📍 Bengaluru, Karnataka, India
 * 🐍 5+ years of professional experience with **Python backend development**
 * ⚙️ Strong experience with **Django, Django REST Framework, FastAPI & Flask**
 * 🏗️ Experience designing and migrating applications toward **Microservices Architecture**
@@ -48,6 +50,7 @@ I enjoy building **scalable backend systems, event-driven architectures, asynchr
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge)
 
 ### Messaging & Distributed Systems
 
@@ -62,7 +65,6 @@ I enjoy building **scalable backend systems, event-driven architectures, asynchr
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-AI-blue?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Semantic%20Search-purple?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge)
 
 ### Cloud & DevOps
 
@@ -80,121 +82,112 @@ I enjoy building **scalable backend systems, event-driven architectures, asynchr
 
 ## 💼 Professional Experience
 
-### 🏢 Reliance Infocomm Limited — Senior Software Engineer(ABHI Health)
+### 🏢 Senior Software Engineer — ABI Health
 
-**Apr 2026 – Present | Bengaluru, India**
+**Apr 2026 – Present · Full-time**
+**Bengaluru, Karnataka, India · On-site**
 
-Working on backend services and APIs for JioThings products.
+**Client: Reliance Jio Infocomm Limited**
 
-* Developing scalable **Python, Django & Django REST Framework APIs**
-* Implementing authentication, RBAC, validations and backward-compatible API enhancements
-* Working on subscription management, payment and invoice workflows
-* Implementing API security and secure file-upload validation
-* Working with **MySQL/PostgreSQL, Redis, Celery, Kafka and Git**
-* Debugging and resolving production and SIT issues
-* Working on event-driven workflows and asynchronous processing
+Senior Software Engineer at **ABI Health**, working on a client project with **Reliance Jio Infocomm Limited** in Bengaluru.
+
+* 🚀 Developing and maintaining scalable backend services and REST APIs using **Python, Django, FastAPI, and MongoDB**
+* 📡 Working on **JioThings**, an IoT platform covering **device management, subscriptions, payments, notifications, and external integrations**
+* 💳 Designing and implementing **payment and subscription workflows**, including webhooks, trips, device tracking, status tracking, invoice management, and transaction history
+* 🔄 Working with **Kafka, Redis, MySQL, Celery, and REST APIs** for scalable and asynchronous backend processing
+* ⚡ Improving API **performance, reliability, and scalability** through pagination, validation, concurrency control, database optimization, and robust error handling
 
 ---
 
-### 🏢 Syoft — Software Developer
+### 🏢 Software Developer — Syoft
 
-**Feb 2023 – Jan 2026 | Hyderabad, India**
+**Feb 2023 – Jan 2026 · Hyderabad, India**
 
 Worked on **Bexa**, a Business Management Platform serving **10K+ active users**.
 
-* Contributed to migration from **monolithic architecture to microservices**
-* Designed and developed **User, CRM, Client and Appointment microservices**
-* Implemented **RBAC with granular permissions**
-* Built internal service communication using **gRPC and RabbitMQ**
-* Implemented asynchronous processing using **Django Celery**
-* Built an **LLM-powered RAG microservice using Qdrant and semantic search**
-* Integrated third-party services including **MSG91, Razorpay and PayU**
-* Mentored and led a team of **4 developers**
+* 🏗️ Contributed to migration from **monolithic architecture to microservices**
+* 🔐 Designed and implemented **RBAC with granular permissions**
+* ⚙️ Designed and developed **User, CRM, Client, and Appointment microservices**
+* 🚀 Built services using **Python, Django, REST APIs, PostgreSQL, and AWS**
+* 🔄 Implemented internal service communication using **gRPC and RabbitMQ**
+* ⚡ Developed asynchronous processing using **Django Celery** for large-scale imports
+* 🤖 Built an **LLM-powered RAG microservice** using Qdrant and semantic search
+* 💳 Integrated third-party services including **MSG91, Razorpay, and PayU**
+* 👨‍💻 Mentored and led a team of **4 developers**
 
 ---
 
-### 🏢 Aodh Intelligence Pvt. Ltd. — Software Developer
+### 🏢 Software Developer — Aodh Intelligence Pvt. Ltd.
 
-**Jul 2020 – Dec 2022 | Hyderabad, India**
+**Jul 2020 – Dec 2022 · Hyderabad, India**
 
-Worked on a **Health-Tech SaaS platform** with multi-tenancy architecture.
+Worked on a **Health-Tech SaaS Platform** with multi-tenancy architecture.
 
-* Developed backend APIs using **Python, Django, DRF and PostgreSQL**
-* Worked on appointment booking, hospital management and video consultation modules
-* Optimized invoice processing and database queries
-* Implemented **AWS Cognito authentication**
-* Developed OTP-based registration and login
-* Integrated **Razorpay payment modules**
-* Developed automated tests using **PyTest**
-* Deployed applications using **AWS Lambda, S3 and RDS**
+* 🏥 Developed backend APIs using **Python, Django, Django REST Framework, SQL, and PostgreSQL**
+* 📅 Worked on appointment booking, hospital management, video consultations, and personal visits
+* ⚡ Optimized invoice processing and database queries
+* 🔐 Implemented authentication using **AWS Cognito**
+* 📱 Developed OTP-based registration and login workflows
+* 💳 Integrated **Razorpay payment modules**
+* 🧪 Developed automated test cases using **PyTest**
+* ☁️ Deployed applications using **AWS Lambda, S3, and RDS**
 
 ---
 
 ## 🤖 Featured Work
 
+### 📡 JioThings — IoT Platform
+
+Working on backend services for an IoT platform covering:
+
+`Device Management` `Subscriptions` `Payments` `Notifications` `Device Tracking`
+
+Key technologies:
+
+`Python` `Django` `FastAPI` `MongoDB` `MySQL` `Redis` `Kafka` `Celery`
+
+---
+
 ### 🧠 LLM-Powered RAG Microservice
 
 Built an AI-powered support solution using:
 
-* Python
-* LLM
-* LangChain
-* RAG
-* Qdrant
-* Semantic Search
+`Python` `LLM` `LangChain` `RAG` `Qdrant` `Semantic Search`
 
-The system was designed to retrieve relevant information from knowledge sources and generate contextual responses, helping reduce manual support effort.
+The service uses semantic search and retrieval-augmented generation to provide contextual responses from knowledge sources.
+
+---
 
 ### 🏗️ Microservices Architecture
 
-Contributed to the migration of a monolithic business platform into independent microservices.
+Contributed to migrating a monolithic business platform into independent microservices.
 
 **Technologies:**
 
-`Python` `Django` `REST APIs` `PostgreSQL` `gRPC` `RabbitMQ` `Celery` `AWS`
-
-### 🔄 Event-Driven Backend Systems
-
-Experience building asynchronous and event-driven workflows using:
-
-`Kafka` → `Celery` → `Redis` → `Database`
+`Python` `Django` `PostgreSQL` `REST APIs` `gRPC` `RabbitMQ` `Celery` `AWS`
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rathnamkoninti&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathnamkoninti&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathnamkoninti&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**
-Chaitanya Bharathi Institute of Technology (CBIT), Gandipet
-**2015 – 2018 | GPA: 7.0/10.0**
+**Chaitanya Bharathi Institute of Technology (CBIT), Gandipet**
+2015 – 2018 · GPA: 7.0/10.0
 
 ---
 
 ## 🏆 Highlights
 
-* 🚀 Contributed to migration from **monolith to microservices architecture**
-* 👨‍💻 Mentored and led a **team of 4 developers**
-* 🔐 Implemented **RBAC & JWT-based authentication**
-* ⚡ Reduced API latency through **gRPC & RabbitMQ**
+* 🚀 Experience with **Microservices Architecture and distributed systems**
+* 📡 Backend development experience in **IoT platforms**
+* 💳 Experience building **payment and subscription workflows**
+* ⚡ Improved backend performance using **pagination, concurrency control, caching, and database optimization**
+* 🔄 Built asynchronous and event-driven workflows using **Kafka, Celery, Redis, and RabbitMQ**
 * 🤖 Built an **LLM-powered RAG microservice**
-* ☁️ Worked with **AWS serverless and cloud infrastructure**
-* 🔄 Experienced in **event-driven and asynchronous backend systems**
+* 🔐 Implemented **RBAC and JWT-based authentication**
+* 👨‍💻 Mentored and led a **team of 4 developers**
+* ☁️ Hands-on experience with **AWS and cloud deployment**
 
 ---
 
@@ -216,6 +209,4 @@ Chaitanya Bharathi Institute of Technology (CBIT), Gandipet
 
 ---
 
-### 💬 "Build scalable systems. Solve meaningful problems. Keep learning."
-
-⭐ If you find my projects interesting, feel free to explore my repositories!
+### 💬 Build scalable systems. Solve meaningful problems. Keep learning.
