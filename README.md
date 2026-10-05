@@ -19,7 +19,7 @@ I enjoy building **scalable backend systems, event-driven architectures, asynchr
 * 💼 **Senior Software Engineer at ABI Health**
 * 🤝 Working with **Reliance Jio Infocomm Limited** as a client project
 * 📍 Bengaluru, Karnataka, India
-* 🐍 5+ years of professional experience with **Python backend development**
+* 🐍 6+ years of professional experience with **Python backend development**
 * ⚙️ Strong experience with **Django, Django REST Framework, FastAPI & Flask**
 * 🏗️ Experience designing and migrating applications toward **Microservices Architecture**
 * 🔄 Experienced with **Celery, RabbitMQ, Kafka & gRPC**
